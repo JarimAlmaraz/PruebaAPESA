@@ -1,0 +1,8 @@
+C:\Users\jarij\OneDrive\Documents\Xaruu\WindowsService_PurebaAPESA\WindowsService_PurebaAPESA\bin\Debug\WindowsService_PurebaAPESA.exe.config
+C:\Users\jarij\OneDrive\Documents\Xaruu\WindowsService_PurebaAPESA\WindowsService_PurebaAPESA\bin\Debug\WindowsService_PurebaAPESA.exe
+C:\Users\jarij\OneDrive\Documents\Xaruu\WindowsService_PurebaAPESA\WindowsService_PurebaAPESA\bin\Debug\WindowsService_PurebaAPESA.pdb
+C:\Users\jarij\OneDrive\Documents\Xaruu\WindowsService_PurebaAPESA\WindowsService_PurebaAPESA\obj\Debug\WindowsService_PurebaAPESA.csproj.AssemblyReference.cache
+C:\Users\jarij\OneDrive\Documents\Xaruu\WindowsService_PurebaAPESA\WindowsService_PurebaAPESA\obj\Debug\WindowsService_PurebaAPESA.csproj.SuggestedBindingRedirects.cache
+C:\Users\jarij\OneDrive\Documents\Xaruu\WindowsService_PurebaAPESA\WindowsService_PurebaAPESA\obj\Debug\WindowsService_PurebaAPESA.csproj.CoreCompileInputs.cache
+C:\Users\jarij\OneDrive\Documents\Xaruu\WindowsService_PurebaAPESA\WindowsService_PurebaAPESA\obj\Debug\WindowsService_PurebaAPESA.exe
+C:\Users\jarij\OneDrive\Documents\Xaruu\WindowsService_PurebaAPESA\WindowsService_PurebaAPESA\obj\Debug\WindowsService_PurebaAPESA.pdb
